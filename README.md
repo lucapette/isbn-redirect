@@ -1,5 +1,7 @@
 # ISBN Redirect
 
+> **Archived**: This repository has been moved to [code/isbn-redirect](https://github.com/lucapette/code/tree/main/isbn-redirect)
+
 ISBN Redirect is a Cloudflare Worker that provides a simple API endpoint to redirect ISBN numbers to their corresponding book pages on The StoryGraph.
 
 ## How It Works
